@@ -30,22 +30,22 @@ The project is organized into clear, modular directories for readability and rep
 
 📦 NSSC2025-DataAnalytics
 ├── 📁 Notebook/
-│ ├── 01_Data_Preprocessing.ipynb
-│ ├── 02_Exploratory_Data_Analysis.ipynb
-│ ├── 03_ResNet18_Classification.ipynb
-│ ├── 04_RandomForest_Classification.ipynb
-│ ├── 05_CNN_Autoencoder_AnomalyDetection.ipynb
-│ └── 06_Model_Comparison_and_Report.ipynb
+│   ├── 1️⃣ 01_Data_Preprocessing.ipynb
+│   ├── 2️⃣ 02_Exploratory_Data_Analysis.ipynb
+│   ├── 3️⃣ 03_ResNet18_Classification.ipynb
+│   ├── 4️⃣ 04_RandomForest_Classification.ipynb
+│   ├── 5️⃣ 05_CNN_Autoencoder_AnomalyDetection.ipynb
+│   └── 6️⃣ 06_Model_Comparison_and_Report.ipynb
 │
 ├── 📁 data/
-│ ├── raw/ # Original HLS4ML LHC Jet dataset
-│ ├── processed/ # Cleaned, preprocessed data
-│ ├── models/ # Saved model checkpoints (.pt, .pkl)
-│ ├── results/ # Graphs, metrics, confusion matrices, etc.
-│ └── logs/ # TensorBoard & training logs
+│   ├──  raw/ 
+│   ├── processed/ 
+│   ├── models/ 
+│   ├── results/ 
+│   └── logs/ 
 │
-├── requirements.txt
-└── README.md
+├── 📄 requirements.txt
+└── 📝 README.md
 
 
 ---
