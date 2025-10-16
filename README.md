@@ -1,8 +1,11 @@
 # 🚀 NSSC 2025: Data Analytics Event Submission
 
 ## 🧩 Team Information
-- **Team ID:** ASHSUM143  
-- **Team Lead:** **Ashirwad Sinha**
+- **Team ID:** ASHSUM143
+- **Team Members:**
+  - Ashirwad Sinha
+  - Sumit Pandey
+
 
 ---
 
