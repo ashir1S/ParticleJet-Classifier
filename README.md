@@ -32,6 +32,59 @@ Our project is built around two major objectives:
 The project is organized into clear, modular directories for readability and reproducibility.
 
 ```
+Of course. Here is a clean, tree-style diagram of your project structure based on the detailed file list you provided. Your organization is excellent and very thorough.
+
+```
+📦 NSSC_DataAnalytics_Team_ASHSUM143/
+├── 📂 Notebook/
+│   ├── 📄 1_Data_Preprocessing.ipynb
+│   ├── 📄 2_CNN_Model.ipynb
+│   ├── 📄 3_Tabular_Models.ipynb
+│   ├── 📄 4_Model_Comparison.ipynb
+│   └── 📄 5_Anomaly_Detection.ipynb
+│
+├── 📂 data/
+│   ├── 📂 checkpoints_resnet18/
+│   ├── 📂 logs_resnet18/
+│   │   ├── 📂 train/
+│   │   └── 📂 validation/
+│   │
+│   ├── 📂 models/
+│   │   ├── 🧠 label_encoder.joblib
+│   │   ├── 🧠 pca.joblib
+│   │   ├── 🧠 resnet18_jet_classifier_best_model.keras
+│   │   ├── 🧠 rf_baseline.joblib
+│   │   ├── 🧠 rf_pca.joblib
+│   │   └── 🧠 scaler.joblib
+│   │
+│   ├── 📂 results/
+│   │   ├── 📂 plots/
+│   │   │   ├── 📈 anomaly_error_distribution.png
+│   │   │   ├── 📈 cnn_accuracy_loss_curves.png
+│   │   │   ├── 📈 cnn_confusion_matrix.png
+│   │   │   ├── 📈 cnn_misclassified_jets.png
+│   │   │   ├── 📈 confusion_matrix_pca.png
+│   │   │   ├── 📈 confusion_matrix_raw.png
+│   │   │   ├── 📈 model_comparison.png
+│   │   │   ├── 📈 pca_scree_plot.png
+│   │   │   └── 📈 top_5_anomalies.png
+│   │   │
+│   │   ├── 📄 anomaly_scores.csv
+│   │   ├── 📄 cnn_summary.csv
+│   │   ├── 📄 sample_images.npy
+│   │   ├── 📄 tabular_feature_summary.csv
+│   │   └── 📄 tabular_summary.csv
+│   │
+│   ├── 📂 train_data/       (Contains 36 .h5 files)
+│   └── 📂 validation_data/  (Contains 27 .h5 files)
+│
+├── 📄 README.md
+└── 📄 requirements.txt
+
+```
+```
+
+```
 📦 NSSC2025-DataAnalytics
 ├── 📁 Notebook/
 │   ├── 1️⃣ 01_Data_Preprocessing.ipynb
