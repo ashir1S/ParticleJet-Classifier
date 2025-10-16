@@ -28,6 +28,7 @@ Our project is built around two major objectives:
 
 The project is organized into clear, modular directories for readability and reproducibility.
 
+```
 📦 NSSC2025-DataAnalytics
 ├── 📁 Notebook/
 │   ├── 1️⃣ 01_Data_Preprocessing.ipynb
@@ -38,14 +39,15 @@ The project is organized into clear, modular directories for readability and rep
 │   └── 6️⃣ 06_Model_Comparison_and_Report.ipynb
 │
 ├── 📁 data/
-│   ├──  raw/
-│   ├── processed/
-│   ├── models/
-│   ├── results/
-│   └── logs/
+│   ├──  raw/ 
+│   ├── processed/ 
+│   ├── models/ 
+│   ├── results/ 
+│   └── logs/ 
 │
 ├── 📄 requirements.txt
 └── 📝 README.md
+```
 
 ---
 
