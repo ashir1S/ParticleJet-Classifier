@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+h5py
+scikit-learn
+tensorflow
+keras-cv
+tensorflow_datasets
