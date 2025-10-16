@@ -38,15 +38,14 @@ The project is organized into clear, modular directories for readability and rep
 │   └── 6️⃣ 06_Model_Comparison_and_Report.ipynb
 │
 ├── 📁 data/
-│   ├──  raw/ 
-│   ├── processed/ 
-│   ├── models/ 
-│   ├── results/ 
-│   └── logs/ 
+│   ├──  raw/
+│   ├── processed/
+│   ├── models/
+│   ├── results/
+│   └── logs/
 │
 ├── 📄 requirements.txt
 └── 📝 README.md
-
 
 ---
 
